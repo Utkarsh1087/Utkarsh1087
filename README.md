@@ -73,6 +73,8 @@ email      : utkarsh.rajput.2005@gmail.com
 #### 🎨 Frontend
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="65" />&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="65" />&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" width="65" />&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="65" />&nbsp;
