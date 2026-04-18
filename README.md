@@ -86,8 +86,7 @@ email      : utkarsh.rajput.2005@gmail.com
 #### 🗄️ Database & Cloud
 
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,firebase,postgres&titles=true&perline=10" width="300" style="vertical-align:top;"/>
-<img src="https://res.cloudinary.com/deuiyparu/image/upload/v1776555578/2b53bb52-3256-4cdb-860b-cbe896427aeb_jfifil.png" width="90" height="90" style="vertical-align:top; margin-left:4px;" title="Cloudinary"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,firebase,postgres&titles=true&perline=10" width="300"/><img src="https://res.cloudinary.com/deuiyparu/image/upload/v1776555578/2b53bb52-3256-4cdb-860b-cbe896427aeb_jfifil.png" width="90" height="90" title="Cloudinary"/>
 </p>
 
 <br/>
