@@ -62,50 +62,52 @@ email      : utkarsh.rajput.2005@gmail.com
 #### 🔤 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="65" title="C"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="65" title="C++"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="65" title="JavaScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="65" title="TypeScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="65" title="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="65" title="SQL"/>
 </p>
 
 #### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" title="HTML5"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="65" title="CSS3"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="65" title="React"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="65" title="Next.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="65" title="Tailwind"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="65" title="Bootstrap"/>
 </p>
 
 #### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=socketio" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="65" title="Node.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="65" title="Express"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="65" title="Socket.IO"/>
 </p>
 
 #### 🗄️ Database & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cloudinary" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="65" title="MongoDB"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="65" title="Firebase"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudinary/cloudinary-original.svg" width="65" title="Cloudinary"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="65" title="Railway"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/render/render-original.svg" width="65" title="Render"/>
 </p>
 
 #### 🔧 Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="65" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="65" title="Git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="65" title="GitHub"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="65" title="Postman"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="65" title="Vercel"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="65" title="Figma"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eraser/eraser-original.svg" width="65" title="Eraser"/>
 </p>
 
 ---
