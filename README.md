@@ -19,9 +19,9 @@
 
 > *Turning coffee ☕ into scalable web apps, one commit at a time.*
 
-I'm a **Full Stack Developer** from IIIT Una who loves building products people actually use. At **YesCity.in**, I wore two hats — leading the research team as **Research Head** while also contributing as a **Full Stack Developer** helping build and scale their travel platform.
+I'm a **Full Stack Developer** from IIIT Una who loves building products people actually use. At **YesCity.in**, I wore two hats ,leading the research team as **Research Head** while also contributing as a **Full Stack Developer** helping build and scale their travel platform.
 
-Now I'm channeling everything I've learned into **[rpar.in](https://rpar.in)** — a startup I'm co-founding and building from the ground up.
+Now I'm channeling everything I've learned into **[rpar.in](https://rpar.in)**, a startup I'm co-founding and building from the ground up.
 
 <br>
 
