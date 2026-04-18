@@ -19,9 +19,9 @@
 
 > *Turning coffee ☕ into scalable web apps, one commit at a time.*
 
-I'm a **Full Stack Developer** from IIIT Una who loves building products people actually use. At **YesCity.in**, I wore two hats ,leading the research team as **Research Head** while also contributing as a **Full Stack Developer** helping build and scale their travel platform.
+I'm a **Full Stack Developer** from IIIT Una who loves building products people actually use. At **YesCity.in**, I wore two hats — leading the research team as **Research Head** while also contributing as a **Full Stack Developer** helping build and scale their travel platform.
 
-Now I'm channeling everything I've learned into **[rpar.in](https://rpar.in)**, a startup I'm co-founding and building from the ground up.
+Now I'm channeling everything I've learned into **[rpar.in](https://rpar.in)** — a startup I'm co-founding and building from the ground up.
 
 <br>
 
@@ -57,45 +57,54 @@ email      : utkarsh.rajput.2005@gmail.com
 
 ---
 
-### 🛠️ Tech Stack
+### 🖥️ Tech Stack
 
-<div align="center">
+#### 🔤 Languages
 
-**💻 Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" width="65" />
+</p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### 🎨 Frontend
 
-**🎨 Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="65" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+#### ⚙️ Backend
 
-**⚙️ Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=socketio" width="65" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+#### 🗄️ Database & Cloud
 
-**🗄️ Database & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudinary" width="65" />
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+#### 🔧 Tools & Technologies
 
-**🔧 Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="65" />
+</p>
 
 ---
 
