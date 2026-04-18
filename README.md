@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaibhav+Sharma;Full+Stack+Developer;MERN+Stack+%7C+C%2B%2B+%7C+DSA;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Utkarsh+Rajput;Full+Stack+Developer;MERN+Stack+%7C+C%2B%2B+%7C+DSA;Building+rpar.in+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=vaibhavVS18&label=PROFILE+VIEWS&color=6E40C9&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Utkarsh1087&label=PROFILE+VIEWS&color=6E40C9&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -12,32 +12,31 @@
 
 ## 🚀 About Me
 
-- 🎓 **Pre-Final Year @ IIIT Una** — B.Tech in ECE (CGPA: **8.55**)
-- 💼 **Full Stack Developer @ YesCity** — Leading tech team, building scalable travel platforms
-- ⚡ **10+ months** of industry experience in production-ready applications
-- 🧠 **DSA Grinder** — 600+ LeetCode problems | 200+ Coding Ninjas (Level 7)
-- 🤖 Currently building **real-time collaboration tools** & **AI-powered applications**
+- 🎓 **B.Tech in ECE @ IIIT Una**
+- 💼 **Ex-Research Head & Full Stack Developer @ YesCity.in**
+- 🌐 Currently building **[rpar.in](https://rpar.in)**
+- 🧠 **DSA Enthusiast** — 100+ problems solved on LeetCode
 - 📍 Based in **Himachal Pradesh, India**
-- 📬 Reach me at **vaibhav.jiituna1111@gmail.com**
+- 📬 Reach me at **utkarsh.rajput.2005@gmail.com**
 
 ---
 
 ## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://rpar.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/vaibhavVS18" target="_blank">
+  <a href="https://www.linkedin.com/in/utkarsh-rajput7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/vaibhavVS18" target="_blank">
+  <a href="https://github.com/Utkarsh1087" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:vaibhav.jiituna1111@gmail.com">
+  <a href="mailto:utkarsh.rajput.2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/vaibhavVS18" target="_blank">
+  <a href="https://leetcode.com/u/utkarsh_44/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
@@ -82,14 +81,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavVS18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavVS18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Utkarsh1087&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh1087&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vaibhavVS18&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Utkarsh1087&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -99,7 +98,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavVS18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Utkarsh1087&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -109,7 +108,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/vaibhavVS18/vaibhavVS18/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Utkarsh1087/Utkarsh1087/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
