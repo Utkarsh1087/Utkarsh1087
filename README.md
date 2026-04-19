@@ -99,6 +99,153 @@ email      : utkarsh.rajput.2005@gmail.com
 
 ---
 
+### 💼 Professional Experience
+
+<table width="100%" border="1" cellspacing="0" cellpadding="16">
+<tr>
+<td width="70%" valign="top">
+
+**Full-Stack Developer & Research Head — [YesCity.in](https://yescity.in)**
+<br/>
+*Jul 2025 – Dec 2025*
+
+[YesCity](https://yescity.in) · *City Travel & Discovery Platform*
+
+**Key Contributions:**
+- ⚡ Engineered 8+ REST API routes using Next.js App Router and MongoDB; deployed on Vercel
+- 🔐 Configured Firebase OTP authentication with JWT sessions; cut unauthorized access to 0 post-launch
+- 🤖 Shipped AI chatbot via OpenAI APIs and real-time messaging via Pusher; reduced latency by ~60%
+- 🗂️ Designed data schema for 10+ city insight categories; informed 3 core MVP feature decisions
+
+**Impact:**
+- Transitioned from Research Intern → Research Head & Full Stack Developer
+- Implemented secure Firebase (OTP) and JWT authentication
+- Delivered production-ready features with 99%+ uptime
+
+</td>
+<td width="30%" valign="top" align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/yescity.png" width="160" alt="YesCity"/>
+<br/><br/>
+<b>Contributing</b><br/>
+6 months<br/>
+<i>Jul 2025 – Dec 2025</i><br/><br/>
+<i>Research Head & Full Stack Dev</i>
+<br/><br/>
+<a href="https://yescity.in"><img src="https://img.shields.io/badge/🌐_Visit-YesCity-0077B5?style=for-the-badge"/></a>
+</td>
+</tr>
+
+<tr>
+<td width="70%" valign="top">
+
+**Co-Founder & Full Stack Developer — [rpar.in](https://rpar.in)**
+<br/>
+*Jan 2026 – Present*
+
+[rpar.in](https://rpar.in) · *Repair Services Marketplace*
+
+**Key Contributions:**
+- 🚀 Co-founding and building the platform from scratch as lead developer
+- ⚙️ Architecting full stack using MERN + Next.js with scalable API design
+- 🎨 Shipping end-to-end features, UI/UX, and backend infrastructure
+- 📈 Driving product decisions, growth strategy, and technical roadmap
+
+**Impact:**
+- Building a repair services marketplace connecting users with local professionals
+- Currently in active development with production deployments live
+
+</td>
+<td width="30%" valign="top" align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/rpar.png" width="160" alt="rpar.in"/>
+<br/><br/>
+<b>Currently Building</b><br/>
+<i>Jan 2026 – Present</i><br/><br/>
+<i>Co-Founder & Full Stack Dev</i>
+<br/><br/>
+<a href="https://rpar.in"><img src="https://img.shields.io/badge/🌐_Visit-rpar.in-FF5722?style=for-the-badge"/></a>
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+<table width="100%" border="1" cellspacing="0" cellpadding="16">
+<tr>
+<td width="70%" valign="top">
+
+**🧠 WebCraft — AI-Powered Web Application Generator**
+
+*AI SaaS Platform · 2025*
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-00C7B7?style=for-the-badge)](https://web-craft-eta.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh1087/webcraft)
+
+- ⚡ Full-stack SaaS with 5+ generation modes using React (Vite), Node.js/Express, PostgreSQL & Prisma ORM
+- 🤖 Integrated LLM APIs (OpenAI/OpenRouter) to generate interactive UI in under 10 seconds per request
+- 🔐 Secured auth via Better-Auth and CORS; deployed on Vercel + Railway with <200ms API response time
+
+**Tech Stack:** React · Node.js · Express · PostgreSQL · Prisma · OpenAI
+
+</td>
+<td width="30%" valign="top" align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/WebCraft.png" width="160" alt="WebCraft"/>
+</td>
+</tr>
+
+<tr>
+<td width="70%" valign="top">
+
+**🛍️ Forever — Premium Apparel E-Commerce Platform**
+
+*Full-stack MERN + Stripe + Razorpay · 2025*
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-00C7B7?style=for-the-badge)](https://forever-frontend-lemon-seven.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh1087/ECOMMERCE_APP)
+
+- ⚡ Full-stack e-commerce SPA with React (Vite), TailwindCSS, Node.js/Express & MongoDB Atlas
+- 🛠️ Admin dashboard with role-based access, inventory management & full product CRUD with multi-variant support
+- 💳 Wired Stripe & Razorpay payments, JWT auth & Cloudinary image handling; deployed on Vercel
+
+**Tech Stack:** React · Node.js · MongoDB · Stripe · Razorpay · Cloudinary
+
+</td>
+<td width="30%" valign="top" align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/forever.png" width="160" alt="Forever"/>
+</td>
+</tr>
+
+<tr>
+<td width="70%" valign="top">
+
+**💬 Pingr — Real-time Chat Application**
+
+*Full-stack MERN + Socket.io · 2025*
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-00C7B7?style=for-the-badge)](https://pingr-frontend-five.vercel.app/login)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh1087/Pingr)
+
+- ⚡ Real-time messaging with Socket.io (<100ms latency) with online/offline presence tracking
+- 🔐 Secured sessions via JWT + bcrypt (10+ salt rounds) and HTTP-only cookies eliminating XSS token exposure
+- 🖼️ Integrated Cloudinary for image uploads & Zustand for global state; reduced re-render overhead by ~30%
+
+**Tech Stack:** React · Node.js · MongoDB · Socket.io · Zustand · Cloudinary
+
+</td>
+<td width="30%" valign="top" align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/pingr.png" width="160" alt="Pingr"/>
+</td>
+</tr>
+</table>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -136,7 +283,7 @@ email      : utkarsh.rajput.2005@gmail.com
 
 <div align="center">
 
-![Snake animation](https://github.com/Utkarsh1087/Utkarsh1087/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
