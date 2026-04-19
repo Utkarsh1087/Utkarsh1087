@@ -105,6 +105,41 @@ email      : utkarsh.rajput.2005@gmail.com
 <tr>
 <td width="70%" valign="top">
 
+**Co-Founder & Full Stack Developer — [rpar.in](https://rpar.in)**
+<br/>
+*Jan 2026 – Present*
+
+[rpar.in](https://rpar.in) · *Repair Services Marketplace*
+
+**The Entrepreneurial Journey:**
+- 💡 Identified a real-world gap in the repair services market and co-founded rpar.in from scratch
+- 🏗️ Sole technical co-founder — making every product, architecture, and business decision from day one
+- ⚙️ Architecting the full stack using MERN + Next.js; designing scalable APIs and database schemas
+- 🎨 Owning end-to-end product development — from wireframes to production deployments
+- 📈 Driving growth strategy, user acquisition, and technical roadmap simultaneously
+- 🤝 Managing co-founder dynamics, vendor relationships, and early user feedback loops
+
+**Impact:**
+- Taking a 0 → 1 product from idea to a live, production platform
+- Building in public as a student founder while still in college
+
+</td>
+<td width="30%" valign="middle">
+<p align="center">
+<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/rpar.png" width="160" alt="rpar.in"/>
+<br/><br/>
+<b>🚀 Currently Building</b><br/><br/>
+<i>Jan 2026 – Present</i><br/><br/>
+<i>Co-Founder & Full Stack Dev</i>
+<br/><br/>
+<a href="https://rpar.in"><img src="https://img.shields.io/badge/🌐_Visit-rpar.in-FF5722?style=for-the-badge"/></a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="70%" valign="top">
+
 **Full-Stack Developer & Research Head — [YesCity.in](https://yescity.in)**
 <br/>
 *Jul 2025 – Dec 2025*
@@ -123,48 +158,17 @@ email      : utkarsh.rajput.2005@gmail.com
 - Delivered production-ready features with 99%+ uptime
 
 </td>
-<td width="30%" valign="top" align="center">
-<br/>
+<td width="30%" valign="middle">
+<p align="center">
 <img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/yescity.png" width="160" alt="YesCity"/>
 <br/><br/>
-<b>Contributing</b><br/>
+<b>Alumni</b><br/><br/>
 6 months<br/>
 <i>Jul 2025 – Dec 2025</i><br/><br/>
-<i>Research Head & Full Stack Dev</i>
+<i>Ex Research Head & Full Stack Dev</i>
 <br/><br/>
 <a href="https://yescity.in"><img src="https://img.shields.io/badge/🌐_Visit-YesCity-0077B5?style=for-the-badge"/></a>
-</td>
-</tr>
-
-<tr>
-<td width="70%" valign="top">
-
-**Co-Founder & Full Stack Developer — [rpar.in](https://rpar.in)**
-<br/>
-*Jan 2026 – Present*
-
-[rpar.in](https://rpar.in) · *Repair Services Marketplace*
-
-**Key Contributions:**
-- 🚀 Co-founding and building the platform from scratch as lead developer
-- ⚙️ Architecting full stack using MERN + Next.js with scalable API design
-- 🎨 Shipping end-to-end features, UI/UX, and backend infrastructure
-- 📈 Driving product decisions, growth strategy, and technical roadmap
-
-**Impact:**
-- Building a repair services marketplace connecting users with local professionals
-- Currently in active development with production deployments live
-
-</td>
-<td width="30%" valign="top" align="center">
-<br/>
-<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/rpar.png" width="160" alt="rpar.in"/>
-<br/><br/>
-<b>Currently Building</b><br/>
-<i>Jan 2026 – Present</i><br/><br/>
-<i>Co-Founder & Full Stack Dev</i>
-<br/><br/>
-<a href="https://rpar.in"><img src="https://img.shields.io/badge/🌐_Visit-rpar.in-FF5722?style=for-the-badge"/></a>
+</p>
 </td>
 </tr>
 </table>
@@ -191,9 +195,10 @@ email      : utkarsh.rajput.2005@gmail.com
 **Tech Stack:** React · Node.js · Express · PostgreSQL · Prisma · OpenAI
 
 </td>
-<td width="30%" valign="top" align="center">
-<br/>
+<td width="30%" valign="middle">
+<p align="center">
 <img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/WebCraft.png" width="160" alt="WebCraft"/>
+</p>
 </td>
 </tr>
 
@@ -214,9 +219,10 @@ email      : utkarsh.rajput.2005@gmail.com
 **Tech Stack:** React · Node.js · MongoDB · Stripe · Razorpay · Cloudinary
 
 </td>
-<td width="30%" valign="top" align="center">
-<br/>
+<td width="30%" valign="middle" bgcolor="#ffffff">
+<p align="center">
 <img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/forever.png" width="160" alt="Forever"/>
+</p>
 </td>
 </tr>
 
@@ -237,9 +243,10 @@ email      : utkarsh.rajput.2005@gmail.com
 **Tech Stack:** React · Node.js · MongoDB · Socket.io · Zustand · Cloudinary
 
 </td>
-<td width="30%" valign="top" align="center">
-<br/>
+<td width="30%" valign="middle">
+<p align="center">
 <img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/pingr.png" width="160" alt="Pingr"/>
+</p>
 </td>
 </tr>
 </table>
