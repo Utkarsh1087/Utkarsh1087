@@ -19,9 +19,9 @@
 
 > *Turning coffee ☕ into scalable web apps, one commit at a time.*
 
-I'm a **Full Stack Developer** from IIIT Una who loves building products people actually use. At **YesCity.in**, I wore two hats — leading the research team as **Research Head** while also contributing as a **Full Stack Developer** helping build and scale their travel platform.
+I'm a **Full Stack Developer** from IIIT Una who loves building products people actually use. At **YesCity.in**, I led the research team as **Research Head** while also contributing as a **Full Stack Developer** helping build and scale their travel platform.
 
-Now I'm channeling everything I've learned into **[rpar.in](https://rpar.in)** — a startup I'm co-founding and building from the ground up.
+Now I'm channeling everything I've learned into **[rpar.in](https://rpar.in)**, a startup I'm co-founding and building from the ground up.
 
 <br>
 
@@ -105,23 +105,23 @@ email      : utkarsh.rajput.2005@gmail.com
 <tr>
 <td width="70%" valign="top">
 
-**Co-Founder & Full Stack Developer — [rpar.in](https://rpar.in)**
+**Co-Founder & Full Stack Developer at [rpar.in](https://rpar.in)**
 <br/>
 *Jan 2026 – Present*
 
 [rpar.in](https://rpar.in) · *Repair Services Marketplace*
 
 **The Entrepreneurial Journey:**
-- 💡 Identified a real-world gap in the repair services market and co-founded rpar.in from scratch
-- 🏗️ Sole technical co-founder — making every product, architecture, and business decision from day one
-- ⚙️ Architecting the full stack using MERN + Next.js; designing scalable APIs and database schemas
-- 🎨 Owning end-to-end product development — from wireframes to production deployments
-- 📈 Driving growth strategy, user acquisition, and technical roadmap simultaneously
-- 🤝 Managing co-founder dynamics, vendor relationships, and early user feedback loops
+- 💡 Spotted a real gap in the repair services market and co-founded rpar.in from scratch
+- 🏗️ Sole technical co-founder making all product, architecture and business decisions from day one
+- ⚙️ Building the full stack with MERN + Next.js, designing scalable APIs and database schemas
+- 🎨 Owning the entire product lifecycle from wireframes to production deployments
+- 📈 Running growth strategy, user acquisition and technical roadmap all at once
+- 🤝 Handling co-founder dynamics, vendor relationships and early user feedback loops
 
 **Impact:**
-- Taking a 0 → 1 product from idea to a live, production platform
-- Building in public as a student founder while still in college
+- Taking a 0 to 1 product from idea to a live production platform
+- Building as a student founder while still in college
 
 </td>
 <td width="30%" valign="middle">
@@ -140,21 +140,21 @@ email      : utkarsh.rajput.2005@gmail.com
 <tr>
 <td width="70%" valign="top">
 
-**Full-Stack Developer & Research Head — [YesCity.in](https://yescity.in)**
+**Full Stack Developer & Research Head at [YesCity.in](https://yescity.in)**
 <br/>
 *Jul 2025 – Dec 2025*
 
 [YesCity](https://yescity.in) · *City Travel & Discovery Platform*
 
 **Key Contributions:**
-- ⚡ Engineered 8+ REST API routes using Next.js App Router and MongoDB; deployed on Vercel
-- 🔐 Configured Firebase OTP authentication with JWT sessions; cut unauthorized access to 0 post-launch
-- 🤖 Shipped AI chatbot via OpenAI APIs and real-time messaging via Pusher; reduced latency by ~60%
-- 🗂️ Designed data schema for 10+ city insight categories; informed 3 core MVP feature decisions
+- ⚡ Engineered 8+ REST API routes using Next.js App Router and MongoDB, deployed on Vercel
+- 🔐 Set up Firebase OTP authentication with JWT sessions and cut unauthorized access to zero post-launch
+- 🤖 Shipped an AI chatbot via OpenAI APIs and real-time messaging via Pusher, reducing latency by ~60%
+- 🗂️ Designed a data schema covering 10+ city insight categories that directly shaped 3 core MVP decisions
 
 **Impact:**
-- Transitioned from Research Intern → Research Head & Full Stack Developer
-- Implemented secure Firebase (OTP) and JWT authentication
+- Grew from Research Intern to Research Head and Full Stack Developer
+- Implemented secure Firebase OTP and JWT authentication
 - Delivered production-ready features with 99%+ uptime
 
 </td>
@@ -190,7 +190,7 @@ email      : utkarsh.rajput.2005@gmail.com
 
 - ⚡ Full-stack SaaS with 5+ generation modes using React (Vite), Node.js/Express, PostgreSQL & Prisma ORM
 - 🤖 Integrated LLM APIs (OpenAI/OpenRouter) to generate interactive UI in under 10 seconds per request
-- 🔐 Secured auth via Better-Auth and CORS; deployed on Vercel + Railway with <200ms API response time
+- 🔐 Secured auth via Better-Auth and CORS, deployed on Vercel + Railway with <200ms API response time
 
 **Tech Stack:** React · Node.js · Express · PostgreSQL · Prisma · OpenAI
 
@@ -212,9 +212,9 @@ email      : utkarsh.rajput.2005@gmail.com
 [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-00C7B7?style=for-the-badge)](https://forever-frontend-lemon-seven.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh1087/ECOMMERCE_APP)
 
-- ⚡ Full-stack e-commerce SPA with React (Vite), TailwindCSS, Node.js/Express & MongoDB Atlas
-- 🛠️ Admin dashboard with role-based access, inventory management & full product CRUD with multi-variant support
-- 💳 Wired Stripe & Razorpay payments, JWT auth & Cloudinary image handling; deployed on Vercel
+- ⚡ Full-stack e-commerce SPA built with React (Vite), TailwindCSS, Node.js/Express and MongoDB Atlas
+- 🛠️ Admin dashboard with role-based access, inventory management and full product CRUD with multi-variant support
+- 💳 Integrated Stripe and Razorpay payments, JWT auth and Cloudinary image handling, deployed on Vercel
 
 **Tech Stack:** React · Node.js · MongoDB · Stripe · Razorpay · Cloudinary
 
@@ -236,9 +236,9 @@ email      : utkarsh.rajput.2005@gmail.com
 [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-00C7B7?style=for-the-badge)](https://pingr-frontend-five.vercel.app/login)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh1087/Pingr)
 
-- ⚡ Real-time messaging with Socket.io (<100ms latency) with online/offline presence tracking
-- 🔐 Secured sessions via JWT + bcrypt (10+ salt rounds) and HTTP-only cookies eliminating XSS token exposure
-- 🖼️ Integrated Cloudinary for image uploads & Zustand for global state; reduced re-render overhead by ~30%
+- ⚡ Built real-time messaging with Socket.io under 100ms latency with online/offline presence tracking
+- 🔐 Sessions secured with JWT, bcrypt (10+ salt rounds) and HTTP-only cookies to eliminate XSS token exposure
+- 🖼️ Integrated Cloudinary for image uploads and Zustand for global state, cutting re-render overhead by ~30%
 
 **Tech Stack:** React · Node.js · MongoDB · Socket.io · Zustand · Cloudinary
 
