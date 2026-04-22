@@ -205,6 +205,30 @@ email      : utkarsh.rajput.2005@gmail.com
 <tr>
 <td width="70%" valign="top">
 
+**🪺 CodeNest — AI-Powered Collaborative Coding Workspace**
+
+*Full-stack MERN + Socket.io + AI Copilot · 2025*
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-00C7B7?style=for-the-badge)](https://code-nest-pi-five.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh1087/CodeNest)
+
+- ⚡ Built real-time multi-user code collaboration with Socket.io, live cursor tracking and instant sync across a CodeMirror editor supporting 20+ languages
+- 🤖 Integrated an AI Copilot via OpenRouter API with inline suggestions and a chat module, plus a tldraw whiteboard for architectural planning
+- 🗂️ Shipped a hierarchical file system with full CRUD persisted in MongoDB, a "Liquid Glass" glassmorphism UI in Tailwind CSS v4, and one-click workspace invitations
+
+**Tech Stack:** React · Node.js · MongoDB · Socket.io · CodeMirror · tldraw · OpenRouter
+
+</td>
+<td width="30%" valign="middle">
+<p align="center">
+<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/codenest.png" width="160" alt="CodeNest"/>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="70%" valign="top">
+
 **🛍️ Forever — Premium Apparel E-Commerce Platform**
 
 *Full-stack MERN + Stripe + Razorpay · 2025*
