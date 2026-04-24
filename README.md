@@ -181,7 +181,7 @@ email      : utkarsh.rajput.2005@gmail.com
 <tr>
 <td width="70%" valign="top">
 
-**🧠 WebCraft — AI-Powered Web Application Generator**
+**🧠 WebCraft : AI-Powered Web Application Generator**
 
 *AI SaaS Platform · 2025*
 
@@ -205,7 +205,7 @@ email      : utkarsh.rajput.2005@gmail.com
 <tr>
 <td width="70%" valign="top">
 
-**🪺 CodeNest — AI-Powered Collaborative Coding Workspace**
+**🪺 CodeNest : AI-Powered Collaborative Coding Workspace**
 
 *Full-stack MERN + Socket.io + AI Copilot · 2025*
 
@@ -229,7 +229,31 @@ email      : utkarsh.rajput.2005@gmail.com
 <tr>
 <td width="70%" valign="top">
 
-**🛍️ Forever — Premium Apparel E-Commerce Platform**
+**🛰️ Sentinel : Production-Grade Observability & AI Diagnostics Platform**
+
+*Full-stack MERN + InfluxDB + AI Diagnostics · 2025*
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-00C7B7?style=for-the-badge)](https://sentinel-platform-tau.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh1087/Sentinel)
+
+- ⚡ Built a real-time telemetry dashboard tracking CPU, RAM and API latency with Socket.io, backed by InfluxDB Cloud for time-series data and PostgreSQL for identity management
+- 🤖 Integrated a Gemini-powered diagnostic engine that analyzes error logs and delivers root-cause solutions in real-time, plus multi-channel smart alerts via Discord/Telegram on custom thresholds
+- 📦 Shipped a plug-and-play Node.js SDK that instruments any MERN app in 3 lines, with BullMQ/Upstash Redis for background alert queues and a "Liquid Glass" Recharts dashboard on the frontend
+
+**Tech Stack:** React · Node.js · Socket.io · InfluxDB · PostgreSQL · Redis · BullMQ · Gemini
+
+</td>
+<td width="30%" valign="middle">
+<p align="center">
+<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/sentinellogo.png" width="165" alt="Sentinel"/>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="70%" valign="top">
+
+**🛍️ Forever : Premium Apparel E-Commerce Platform**
 
 *Full-stack MERN + Stripe + Razorpay · 2025*
 
@@ -253,7 +277,7 @@ email      : utkarsh.rajput.2005@gmail.com
 <tr>
 <td width="70%" valign="top">
 
-**💬 Pingr — Real-time Chat Application**
+**💬 Pingr : Real-time Chat Application**
 
 *Full-stack MERN + Socket.io · 2025*
 
