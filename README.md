@@ -8,6 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Utkarsh1087&label=Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/Utkarsh1087)
 [![GitHub followers](https://img.shields.io/github/followers/Utkarsh1087?label=Followers&style=for-the-badge&color=purple)](https://github.com/Utkarsh1087)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_Now-A855F7?style=for-the-badge&logoColor=white)](https://portfolio-five-nu-u9kcome8qn.vercel.app/)
 
 </div>
 
@@ -34,6 +35,7 @@ college    : IIIT Una — B.Tech ECE
 role       : Full Stack Developer
 experience : Ex-Research Head @ YesCity.in
 building   : rpar.in 🚀
+portfolio  : portfolio-five-nu-u9kcome8qn.vercel.app 🌐
 dsa        : 100+ LeetCode problems solved
 location   : Himachal Pradesh, India 🏔️
 email      : utkarsh.rajput.2005@gmail.com
@@ -47,7 +49,8 @@ email      : utkarsh.rajput.2005@gmail.com
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-rpar.in-FF5722?style=for-the-badge&logoColor=white)](https://rpar.in)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_Now-A855F7?style=for-the-badge&logoColor=white)](https://portfolio-five-nu-u9kcome8qn.vercel.app/)
+[![rpar.in](https://img.shields.io/badge/🚀_rpar.in-FF5722?style=for-the-badge&logoColor=white)](https://rpar.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh_Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-rajput7/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-utkarsh__44-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/utkarsh_44/)
 [![Gmail](https://img.shields.io/badge/Gmail-utkarsh.rajput.2005-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsh.rajput.2005@gmail.com)
@@ -313,16 +316,6 @@ email      : utkarsh.rajput.2005@gmail.com
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Utkarsh1087&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Utkarsh1087&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
