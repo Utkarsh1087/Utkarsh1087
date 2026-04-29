@@ -97,7 +97,7 @@ email      : utkarsh.rajput.2005@gmail.com
 #### 🔧 Tools & Technologies
 
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vercel,figma,n8n,railway,render&titles=true&perline=10" width="800"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vercel,figma,n8n,railway,render,docker,kubernetes&titles=true&perline=10" width="1000"/>
 </p>
 
 ---
