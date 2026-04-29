@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Utkarsh1087&label=Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/Utkarsh1087)
 [![GitHub followers](https://img.shields.io/github/followers/Utkarsh1087?label=Followers&style=for-the-badge&color=purple)](https://github.com/Utkarsh1087)
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_Now-A855F7?style=for-the-badge&logoColor=white)](https://portfolio-five-nu-u9kcome8qn.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_Now-A855F7?style=for-the-badge&logoColor=white)](https://www.utkarshbuilds.in/)
 
 </div>
 
