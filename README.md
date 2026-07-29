@@ -22,7 +22,6 @@
 
 I'm a **Full Stack Developer** from IIIT Una who loves building products people actually use. At **YesCity.in**, I led the research team as **Research Head** while also contributing as a **Full Stack Developer** helping build and scale their travel platform.
 
-Now I'm channeling everything I've learned into **[rpar.in](https://rpar.in)**, a startup I'm co-founding and building from the ground up.
 
 <br>
 
@@ -108,41 +107,6 @@ email      : utkarsh.rajput.2005@gmail.com
 <tr>
 <td width="70%" valign="top">
 
-**Co-Founder & Full Stack Developer at [rpar.in](https://rpar.in)**
-<br/>
-*Jan 2026 – Present*
-
-[rpar.in](https://rpar.in) · *Repair Services Marketplace*
-
-**The Entrepreneurial Journey:**
-- 💡 Spotted a real gap in the repair services market and co-founded rpar.in from scratch
-- 🏗️ Sole technical co-founder making all product, architecture and business decisions from day one
-- ⚙️ Building the full stack with MERN + Next.js, designing scalable APIs and database schemas
-- 🎨 Owning the entire product lifecycle from wireframes to production deployments
-- 📈 Running growth strategy, user acquisition and technical roadmap all at once
-- 🤝 Handling co-founder dynamics, vendor relationships and early user feedback loops
-
-**Impact:**
-- Taking a 0 to 1 product from idea to a live production platform
-- Building as a student founder while still in college
-
-</td>
-<td width="30%" valign="middle">
-<p align="center">
-<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/rpar.png" width="160" alt="rpar.in"/>
-<br/><br/>
-<b>🚀 Currently Building</b><br/><br/>
-<i>Jan 2026 – Present</i><br/><br/>
-<i>Co-Founder & Full Stack Dev</i>
-<br/><br/>
-<a href="https://rpar.in"><img src="https://img.shields.io/badge/🌐_Visit-rpar.in-FF5722?style=for-the-badge"/></a>
-</p>
-</td>
-</tr>
-
-<tr>
-<td width="70%" valign="top">
-
 **Full Stack Developer & Research Head at [YesCity.in](https://yescity.in)**
 <br/>
 *Jul 2025 – Dec 2025*
@@ -181,6 +145,30 @@ email      : utkarsh.rajput.2005@gmail.com
 ### 🚀 Featured Projects
 
 <table width="100%" border="1" cellspacing="0" cellpadding="16">
+<tr>
+<td width="70%" valign="top">
+
+**🛠️ rpar.in : Repair Services Marketplace**
+
+*Full-stack MERN + Next.js · 2026*
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-00C7B7?style=for-the-badge)](https://rpar.in)
+
+- 💡 Built a repair services marketplace from scratch, spotting a real gap in the market
+- ⚙️ Built the full stack with MERN + Next.js, designing scalable APIs and database schemas
+- 🎨 Owned the entire product lifecycle from wireframes to production deployments
+- 📈 Handled growth strategy, user acquisition and technical roadmap end to end
+
+**Tech Stack:** React · Next.js · Node.js · Express · MongoDB
+
+</td>
+<td width="30%" valign="middle">
+<p align="center">
+<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/rpar.png" width="160" alt="rpar.in"/>
+</p>
+</td>
+</tr>
+
 <tr>
 <td width="70%" valign="top">
 
