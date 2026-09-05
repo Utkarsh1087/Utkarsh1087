@@ -34,8 +34,8 @@ college    : IIIT Una — B.Tech ECE
 role       : Full Stack Developer
 experience : Ex-Research Head @ YesCity.in
 building   : rpar.in 🚀
-portfolio  : portfolio-five-nu-u9kcome8qn.vercel.app 🌐
-dsa        : 100+ LeetCode problems solved
+portfolio  : https://utkarshbuilds.in/ 🌐
+dsa        : 200+ problems solved
 location   : Himachal Pradesh, India 🏔️
 email      : utkarsh.rajput.2005@gmail.com
 ```
@@ -48,7 +48,7 @@ email      : utkarsh.rajput.2005@gmail.com
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_Now-A855F7?style=for-the-badge&logoColor=white)](https://portfolio-five-nu-u9kcome8qn.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_Now-A855F7?style=for-the-badge&logoColor=white)](https://utkarshbuilds.in/)
 [![rpar.in](https://img.shields.io/badge/🚀_rpar.in-FF5722?style=for-the-badge&logoColor=white)](https://rpar.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh_Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-rajput7/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-utkarsh__44-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/utkarsh_44/)
@@ -72,7 +72,7 @@ email      : utkarsh.rajput.2005@gmail.com
 #### 🎨 Frontend
 
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,tailwind,bootstrap&titles=true&perline=10" width="600"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap&titles=true&perline=10" width="700"/>
 </p>
 
 <br/>
@@ -80,7 +80,7 @@ email      : utkarsh.rajput.2005@gmail.com
 #### ⚙️ Backend
 
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,socketio&titles=true&perline=10" width="300"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,django,flask,fastapi,socketio&titles=true&perline=10" width="600"/>
 </p>
 
 <br/>
@@ -88,7 +88,60 @@ email      : utkarsh.rajput.2005@gmail.com
 #### 🗄️ Database & Cloud
 
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,firebase,postgres&titles=true&perline=10" width="300"/><img src="https://res.cloudinary.com/deuiyparu/image/upload/v1776555578/2b53bb52-3256-4cdb-860b-cbe896427aeb_jfifil.png" width="90" height="90" title="Cloudinary"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,firebase,postgres,redis,sqlite,prisma&titles=true&perline=10" width="600"/><img src="https://res.cloudinary.com/deuiyparu/image/upload/v1776555578/2b53bb52-3256-4cdb-860b-cbe896427aeb_jfifil.png" width="90" height="90" title="Cloudinary"/>
+</p>
+
+<br/>
+
+#### 🤖 AI, LLMs & Generative AI
+
+<p align="left">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Systems-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-A855F7?style=for-the-badge"/>
+<img src="https://api.iconify.design/logos/pinecone-icon.svg" height="28" title="Pinecone (Vector DB)"/>
+</p>
+
+<br/>
+
+#### 💳 Auth & Payments
+
+<p align="left">
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/OTP_Auth-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Better--Auth-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/bcrypt-A855F7?style=for-the-badge"/>
+</p>
+
+<br/>
+
+#### 🧪 Testing & Realtime
+
+<p align="left">
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supertest-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Grafana_k6-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
+<img src="https://img.shields.io/badge/BullMQ-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-A855F7?style=for-the-badge"/>
+</p>
+
+<br/>
+
+#### 📚 CS Fundamentals
+
+<p align="left">
+<img src="https://img.shields.io/badge/DSA-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_Systems-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-A855F7?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 <br/>
@@ -186,7 +239,7 @@ email      : utkarsh.rajput.2005@gmail.com
 **Tech Stack:** React · Node.js · Express · PostgreSQL · Prisma · OpenAI
 
 </td>
-<td width="30%" valign="middle">
+<td width="30%" valign="top">
 <p align="center">
 <img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/WebCraft.png" width="160" alt="WebCraft"/>
 </p>
@@ -244,23 +297,24 @@ email      : utkarsh.rajput.2005@gmail.com
 <tr>
 <td width="70%" valign="top">
 
-**🛍️ Forever : Premium Apparel E-Commerce Platform**
+**📑 DocSense : Enterprise Full-Stack AI RAG Platform**
 
-*Full-stack MERN + Stripe + Razorpay · 2025*
+*Enterprise AI RAG SaaS · Next.js 14 + Pinecone + Gemini · 2025*
 
-[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-00C7B7?style=for-the-badge)](https://forever-frontend-lemon-seven.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh1087/ECOMMERCE_APP)
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-00C7B7?style=for-the-badge)](https://doc-sense-rouge.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh1087/DocSense)
 
-- ⚡ Full-stack e-commerce SPA built with React (Vite), TailwindCSS, Node.js/Express and MongoDB Atlas
-- 🛠️ Admin dashboard with role-based access, inventory management and full product CRUD with multi-variant support
-- 💳 Integrated Stripe and Razorpay payments, JWT auth and Cloudinary image handling, deployed on Vercel
+- ⚡ High-throughput RAG platform with a 3-engine ingestion pipeline (Standard, Layout-Aware, Table parsing) & 5x parallel batch embedding into Pinecone (<150ms retrieval)
+- 🤖 Real-time SSE response streaming powered by Google Gemini 1.5 Flash delivering &lt;500ms time-to-first-token (TTFT)
+- 🛡️ Enterprise security featuring SSRF defense, HS256 JWT multi-tenant isolation, sliding-window rate limiter, and Stripe recurring subscription billing
+- 📊 Sustained 500 concurrent connections in k6 load testing with 100% success rate, scaling to 100K+ vectors and 5,000+ users via MongoDB connection pooling
 
-**Tech Stack:** React · Node.js · MongoDB · Stripe · Razorpay · Cloudinary
+**Tech Stack:** Next.js 14 · TypeScript · Pinecone · Google Gemini · MongoDB · Stripe · k6
 
 </td>
-<td width="30%" valign="middle" bgcolor="#ffffff">
+<td width="30%" valign="middle">
 <p align="center">
-<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/forever.png" width="160" alt="Forever"/>
+<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/docsense.png" width="160" alt="DocSense"/>
 </p>
 </td>
 </tr>
