@@ -239,7 +239,7 @@ email      : utkarsh.rajput.2005@gmail.com
 **Tech Stack:** React · Node.js · Express · PostgreSQL · Prisma · OpenAI
 
 </td>
-<td width="30%" valign="top">
+<td width="30%" valign="middle">
 <p align="center">
 <img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/WebCraft.png" width="160" alt="WebCraft"/>
 </p>
@@ -314,7 +314,7 @@ email      : utkarsh.rajput.2005@gmail.com
 </td>
 <td width="30%" valign="middle">
 <p align="center">
-<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/docsense.png" width="160" alt="DocSense"/>
+<img src="https://raw.githubusercontent.com/Utkarsh1087/Utkarsh1087/main/assets/docsense.png" width="240" alt="DocSense"/>
 </p>
 </td>
 </tr>
